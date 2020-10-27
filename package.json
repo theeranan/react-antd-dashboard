@@ -1,0 +1,8 @@
+{
+  "name": "react-antd-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/theeranan/react-antd-dashboard.git",
+  "author": "theeranan008 <theeranan008@gmail.com>",
+  "license": "MIT"
+}
